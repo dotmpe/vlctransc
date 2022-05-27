@@ -1,3 +1,5 @@
+Forked from ~paulmadore:vlctransc
+
 # Improvements including UI coming soon.
 
 Check out the video tutorial at http://youtu.be/C3TSq9wCjTs
